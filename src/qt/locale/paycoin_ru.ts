@@ -3,12 +3,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Paycoin</source>
-        <translation>Об Paycoin</translation>
+        <source>About dominate</source>
+        <translation>Об dominate</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Paycoin&lt;/b&gt; version</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-weight:600;"&gt;Paycoin&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;b&gt;dominate&lt;/b&gt; version</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=" font-weight:600;"&gt;dominate&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     </context>
 <context>
@@ -18,8 +18,8 @@
         <translation>Адресная книга</translation>
     </message>
     <message>
-        <source>These are your Paycoin addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Это адреса Paycoin для получения платежей. Вы можете дать другой адрес для каждого отправителя, чтобы иметь возможность отслеживать, кто платит вам. </translation>
+        <source>These are your dominate addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Это адреса dominate для получения платежей. Вы можете дать другой адрес для каждого отправителя, чтобы иметь возможность отслеживать, кто платит вам. </translation>
     </message>
     <message>
         <source>Double-click to edit address or label</source>
@@ -164,14 +164,14 @@
         <translation>Не удалось зашифровать бумажник</translation>
     </message>
     <message>
-        <source>WARNING: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PAYCOINS&lt;/b&gt;!
+        <source>WARNING: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR dominateS&lt;/b&gt;!
 Are you sure you wish to encrypt your wallet?</source>
-        <translation>ВНИМАНИЕ:  Если вы зашифровали свой кошелек и потеряли пароль, вы &lt;b&gt;ВСЕ ВАШИ PAYCOIN&lt;/b&gt;!
+        <translation>ВНИМАНИЕ:  Если вы зашифровали свой кошелек и потеряли пароль, вы &lt;b&gt;ВСЕ ВАШИ dominate&lt;/b&gt;!
 Вы уверены, что хотите зашифровать свой кошелек?</translation>
     </message>
     <message>
-        <source>Paycoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Paycoins from being stolen by malware infecting your computer.</source>
-        <translation>Paycoin сейчас закроется для завершения процесса шифрования. Помните, что шифрование не может полностью защитить ваш кошелек от кражи Paycoin, так как ваш компьютер может быть заражен вредоносными программами.  </translation>
+        <source>dominate will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dominates from being stolen by malware infecting your computer.</source>
+        <translation>dominate сейчас закроется для завершения процесса шифрования. Помните, что шифрование не может полностью защитить ваш кошелек от кражи dominate, так как ваш компьютер может быть заражен вредоносными программами.  </translation>
     </message>
     <message>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
@@ -249,8 +249,8 @@ Are you sure you wish to encrypt your wallet?</source>
         <translation>Закрыть приложение</translation>
     </message>
     <message>
-        <source>Show information about Paycoin</source>
-        <translation>Показать информацию о Paycoin</translation>
+        <source>Show information about dominate</source>
+        <translation>Показать информацию о dominate</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -325,33 +325,33 @@ Are you sure you wish to encrypt your wallet?</source>
         <translation>[тестовая сеть]</translation>
     </message>
     <message>
-        <source>Paycoin Wallet</source>
-        <translation>Кошелек Paycoin </translation>
+        <source>dominate Wallet</source>
+        <translation>Кошелек dominate </translation>
     </message>
     <message>
-        <source>Send coins to a Paycoin address</source>
-        <translation>Отправить монеты на адрес Paycoin </translation>
+        <source>Send coins to a dominate address</source>
+        <translation>Отправить монеты на адрес dominate </translation>
     </message>
     <message>
-        <source>&amp;About Paycoin</source>
-        <translation>О Paycoin </translation>
+        <source>&amp;About dominate</source>
+        <translation>О dominate </translation>
     </message>
     <message>
-        <source>Modify configuration options for Paycoin</source>
-        <translation>Изменить параметры конфигурации Paycoin </translation>
+        <source>Modify configuration options for dominate</source>
+        <translation>Изменить параметры конфигурации dominate </translation>
     </message>
     <message>
-        <source>Show/Hide &amp;Paycoin</source>
-        <translation>Скрыть/Показать Paycoin</translation>
+        <source>Show/Hide &amp;dominate</source>
+        <translation>Скрыть/Показать dominate</translation>
     </message>
     <message>
-        <source>Show or hide the Paycoin window</source>
-        <translation>Скрыть или показать окно программы Paycoin
+        <source>Show or hide the dominate window</source>
+        <translation>Скрыть или показать окно программы dominate
 </translation>
     </message>
     <message>
-        <source>Paycoin client</source>
-        <translation>Клиент Paycoin </translation>
+        <source>dominate client</source>
+        <translation>Клиент dominate </translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -426,8 +426,8 @@ Address: %4
         <translation>Ошибка при попытке сохранить данные бумажника в новое место. </translation>
     </message>
     <message>
-        <source>A fatal error occurred. Paycoin can no longer continue safely and will quit.</source>
-        <translation>Произошла фатальная ошибка. Paycoin не может продолжать работать нормально и закрывается. </translation>
+        <source>A fatal error occurred. dominate can no longer continue safely and will quit.</source>
+        <translation>Произошла фатальная ошибка. dominate не может продолжать работать нормально и закрывается. </translation>
     </message>
     </context>
 <context>
@@ -624,8 +624,8 @@ Address: %4
         <translation>Отобразить адреса в списке транзакций</translation>
     </message>
     <message>
-        <source>Whether to show Paycoin addresses in the transaction list</source>
-        <translation>Отображать адреса Paycoin в списке транзакций</translation>
+        <source>Whether to show dominate addresses in the transaction list</source>
+        <translation>Отображать адреса dominate в списке транзакций</translation>
     </message>
     <message>
         <source>Display coin control features (experts only!)</source>
@@ -679,8 +679,8 @@ Address: %4
         <translation>Введённый адрес «%1» уже находится в адресной книге.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Paycoin address.</source>
-        <translation>Введенный адрес "%1" не является допустимым адресом для Paycoin.</translation>
+        <source>The entered address "%1" is not a valid dominate address.</source>
+        <translation>Введенный адрес "%1" не является допустимым адресом для dominate.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -991,8 +991,8 @@ Address: %4
         <translation>Очистить консоль</translation>
     </message>
     <message>
-        <source>Welcome to the Paycoin RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Добро пожаловать в консоль Paycoin RPC. &lt;br&gt;Используйте стрелки вверх и вниз, для перемещения по истории, и &lt;b&gt;Ctrl-L&lt;/b&gt; чтобы очистить экран.&lt;br&gt;Введите &lt;b&gt;help&lt;/b&gt; для обзора доступных команд.</translation>
+        <source>Welcome to the dominate RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>Добро пожаловать в консоль dominate RPC. &lt;br&gt;Используйте стрелки вверх и вниз, для перемещения по истории, и &lt;b&gt;Ctrl-L&lt;/b&gt; чтобы очистить экран.&lt;br&gt;Введите &lt;b&gt;help&lt;/b&gt; для обзора доступных команд.</translation>
     </message>
     </context>
 <context>
@@ -1146,7 +1146,7 @@ Address: %4
         <translation>Размер оплаты должен составлять как минимум 1 цент (0.01).</translation>
     </message>
     <message>
-        <source>Warning: Invalid Paycoin address</source>
+        <source>Warning: Invalid dominate address</source>
         <translation>Предупреждение: Неверный адрес Bitcoin</translation>
     </message>
     <message>
@@ -1158,8 +1158,8 @@ Address: %4
         <translation>[нет метки]</translation>
     </message>
     <message>
-        <source>Enter a Paycoin address</source>
-        <translation>Введите адрес Paycoin </translation>
+        <source>Enter a dominate address</source>
+        <translation>Введите адрес dominate </translation>
     </message>
     </context>
 <context>
@@ -1256,8 +1256,8 @@ Address: %4
         <translation>Скопировать текущую подпись в буфер</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Paycoin address</source>
-        <translation>Подписать сообщение, чтобы доказать, что вы владелец этого Paycoin адреса </translation>
+        <source>Sign the message to prove you own this dominate address</source>
+        <translation>Подписать сообщение, чтобы доказать, что вы владелец этого dominate адреса </translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1284,8 +1284,8 @@ Address: %4
         <translation>Адрес сообщения был подписан с </translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Paycoin address</source>
-        <translation>Проверьте сообщение, чтобы гарантировать, что его пописали заданным Paycoin адресом</translation>
+        <source>Verify the message to ensure it was signed with the specified dominate address</source>
+        <translation>Проверьте сообщение, чтобы гарантировать, что его пописали заданным dominate адресом</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1304,8 +1304,8 @@ Address: %4
         <translation>Введите подпись сообщения </translation>
     </message>
     <message>
-        <source>Enter a Paycoin address</source>
-        <translation>Введите адрес Paycoin </translation>
+        <source>Enter a dominate address</source>
+        <translation>Введите адрес dominate </translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
@@ -1644,8 +1644,8 @@ Address: %4
         <translation>Использование:</translation>
     </message>
     <message>
-        <source>Paycoin version</source>
-        <translation>Версия Paycoin</translation>
+        <source>dominate version</source>
+        <translation>Версия dominate</translation>
     </message>
     <message>
         <source>List commands</source>
@@ -1661,12 +1661,12 @@ Address: %4
         <translation>Опции:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: paycoin.conf)</source>
-        <translation>Указать файл конфигурации системы (default: paycoin.conf)</translation>
+        <source>Specify configuration file (default: dominate.conf)</source>
+        <translation>Указать файл конфигурации системы (default: dominate.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: paycoind.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: Paycoin.pid)</translation>
+        <source>Specify pid file (default: dominated.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: dominate.pid)</translation>
     </message>
     <message>
         <source>Generate coins</source>
@@ -1817,24 +1817,24 @@ Address: %4
         <translation>Разрешённые алгоритмы (по умолчанию: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s.  Paycoin is probably already running.</source>
-        <translation>Невозможно получить блокировку на каталог данных %s. Paycoin вероятно уже запущена. </translation>
+        <source>Cannot obtain a lock on data directory %s.  dominate is probably already running.</source>
+        <translation>Невозможно получить блокировку на каталог данных %s. dominate вероятно уже запущена. </translation>
     </message>
     <message>
-        <source>Paycoin</source>
-        <translation>Paycoin</translation>
+        <source>dominate</source>
+        <translation>dominate</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Paycoin</source>
-        <translation>Ошибка загрузки wallet.dat: Кошелек требует более новую версию Paycoin. </translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of dominate</source>
+        <translation>Ошибка загрузки wallet.dat: Кошелек требует более новую версию dominate. </translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Paycoin to complete</source>
-        <translation>Кошелек должен быть переписан: перезапустите Paycoin, чтобы завершить процесс</translation>
+        <source>Wallet needed to be rewritten: restart dominate to complete</source>
+        <translation>Кошелек должен быть переписан: перезапустите dominate, чтобы завершить процесс</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct.  If your clock is wrong Paycoin will not work properly.</source>
-        <translation>Предупреждение: Пожалуйста, проверяйте правильно ли выставлено время и дата на компьютере. Если часы будут идти неправильно, Paycoin не будет работать должным образом. </translation>
+        <source>Warning: Please check that your computer's date and time are correct.  If your clock is wrong dominate will not work properly.</source>
+        <translation>Предупреждение: Пожалуйста, проверяйте правильно ли выставлено время и дата на компьютере. Если часы будут идти неправильно, dominate не будет работать должным образом. </translation>
     </message>
     <message>
         <source>Loading addresses...</source>

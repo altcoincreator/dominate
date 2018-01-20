@@ -1,8 +1,8 @@
 #ifndef QTIPCSERVER_H
 #define QTIPCSERVER_H
 
-// Define Paycoin-Qt message queue name
-#define BITCOINURI_QUEUE_NAME "PaycoinURI"
+// Define dominate-Qt message queue name
+#define BITCOINURI_QUEUE_NAME "dominateURI"
 
 void ipcInit();
 void ipcShutdown();

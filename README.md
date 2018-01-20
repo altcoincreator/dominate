@@ -1,9 +1,9 @@
-Paycoin Core integration/staging tree
+Dominate Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/PaycoinFoundation/paycoin.svg?branch=master)](https://travis-ci.org/PaycoinFoundation/paycoin)
+[![Build Status](https://travis-ci.org/DominateFoundation/dominate.svg?branch=master)](https://travis-ci.org/DomionateFoundation/dominate)
 
-https://www.dominate.com
+https://www.dominatecoin.com
 
 What is Dominate?
 ----------------
@@ -28,7 +28,7 @@ Development process
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-If it is a simple/trivial/non-controversial change, then one of the Paycoin
+If it is a simple/trivial/non-controversial change, then one of the Dominate
 development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
@@ -48,7 +48,7 @@ Translations
 ------------
 
 Changes to translations as well as new translations can be submitted to
-[Paycoin Core's Transifex page](https://www.transifex.com/projects/d/dominate/).
+[Dominate Core's Transifex page](https://www.transifex.com/projects/d/dominate/).
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.

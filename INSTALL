@@ -1,9 +1,0 @@
-Building Dominate
-
-See doc/readme-qt.md for instructions on building Dominate-Qt,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of Dominate.
-
-See doc/build-*.md for instructions on building dominated,
-the intended-for-services, no-graphical-interface, reference
-implementation of Dominate.

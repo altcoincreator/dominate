@@ -3,7 +3,7 @@ Dominate Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/DominateFoundation/dominate.svg?branch=master)](https://travis-ci.org/DomionateFoundation/dominate)
 
-https://www.dominatecoin.com
+https://www.dominatecoin.io
 
 What is Dominate?
 ----------------
@@ -14,7 +14,7 @@ the Dominate blockchain network to achieve distributed consensus. Dominate Core 
 the name of open source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of the
-Dominate Core software, see https://www.dominate.com/#wallet.
+Dominate Core software, see https://www.dominate.io/#wallet.
 
 License
 -------
